@@ -1,4 +1,4 @@
-# 🇿🇦 South Africa General Knowledge Quiz
+#  General Knowledge Quiz
 
 This is a simple JavaScript-based multiple-choice quiz focusing on **general knowledge about South Africa**. It includes questions about:
 
